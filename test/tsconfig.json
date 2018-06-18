@@ -1,0 +1,16 @@
+{
+  "include": [
+    "../index.ts",
+    "basic.ts",
+  ],
+  "compilerOptions": {
+    "strict": true,
+    "module": "commonjs",
+    "lib": [
+      "es2015",
+      "dom",
+    ],
+    "target": "es2017",
+    "outDir": "dist"
+  }
+}

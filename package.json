@@ -1,0 +1,28 @@
+{
+  "name": "mini-reactive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YiSiWang/mini-reactive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YiSiWang/mini-reactive/issues"
+  },
+  "homepage": "https://github.com/YiSiWang/mini-reactive#readme",
+  "devDependencies": {
+    "@types/react": "^16.3.18",
+    "@types/react-dom": "^16.0.6",
+    "typescript": "^2.9.2"
+  }
+}

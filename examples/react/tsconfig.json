@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "strict": true,
+    "lib": [
+      "es2015",
+      "dom",
+    ],
+    "target": "es5",
+    "sourceMap": true,
+    "outDir": "./dist/"
+  },
+  "include": [
+    "./src/**/*",
+  ],
+}
